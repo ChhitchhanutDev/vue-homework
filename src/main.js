@@ -1,5 +1,5 @@
 import { createApp } from 'vue'
-import App from './PersonalFinanceTracker.vue/index.js'
+import App from './PersonalFinanceTracker.vue'
 // import App from './ComputedPractise.vue'
 // import App from './TaskManager.vue'
 
